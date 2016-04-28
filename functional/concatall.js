@@ -58,9 +58,17 @@ var movieLists = [
 // Use map and concatAll to flatten the movieLists in a list of video ids.
 // ------------   INSERT CODE HERE!  -----------------------------------
 var result = movieLists.map(function(movie) {
+    
+    
+    // Returns an array containing video id of all movie.videos
     return movie.videos.map(function(video) {
         return video.id
     })
-}).concatAll();
+    
+    
+    
+})
+
+.concatAll(); // Concatenates array of arrays into one array
 
 console.log(result);
