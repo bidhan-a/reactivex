@@ -1,0 +1,23 @@
+{
+  "name": "reactivex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bidhan-a/reactivex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bidhan-a/reactivex/issues"
+  },
+  "homepage": "https://github.com/bidhan-a/reactivex#readme",
+  "dependencies": {
+    "rx": "^4.1.0"
+  }
+}
