@@ -66,7 +66,7 @@ var movieLists = [
 ];
 
 
-// Use one or more map, concatAll, and filter calls to create an array with the following items
+// Use one or more map, concatAll, and filter calls to create an array with the following items(150 * 200 boxart)
 // [
 //	 {"id": 675465,"title": "Fracture","boxart":"http://cdn-0.nflximg.com/images/2891/Fracture150.jpg" },
 //	 {"id": 65432445,"title": "The Chamber","boxart":"http://cdn-0.nflximg.com/images/2891/TheChamber150.jpg" },
